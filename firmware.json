@@ -1,4 +1,4 @@
 {
   "version": 1.1,
-  "bin": "https://github.com/miles-hong/primo-ager/ota.bin"
+  "bin": "https://github.com/miles-hong/primo-ager/raw/main/esp32iot.bin"
 }
